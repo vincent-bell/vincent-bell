@@ -7,6 +7,12 @@
 - ⚡ I do not believe in the AI apocalypse
 
 <h3 align="left">Languages, Tools and Achievements:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </p>
 
 <p align="left"> <a href="https://www.codewars.com/users/vincent-bell" target="_blank" rel="noreferrer"/> <img src="https://www.codewars.com/users/vincent-bell/badges/large?logo=false" alt="codewars rank" width="400" height="200"/> </p>
+
+<a href="https://github.com/vincent-bell">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-bell&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/vincent-bell">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vincent-bell&show_icons=true&theme=tokyonight" />
+</a>
