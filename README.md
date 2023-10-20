@@ -1,4 +1,4 @@
-<h2 align="center">Hey 👋, I'm Vincent</h2>
+<h2 align="center">Hey, I'm Vincent</h2>
 <h3 align="center">I make apps, games and other stuff.</h3>  
 
 - 📚 College student
