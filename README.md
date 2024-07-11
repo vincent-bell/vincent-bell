@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I'm Vincent</h2>
 <h3 align="center">I make apps, games and other stuff.</h3>  
 
-- 📚 College student
+- 📚 Student
 - 🌱 I’m currently learning **Python, C, C++, Assembly and React**
 - 💬 Feel free to ask me about anything related to languages in the ***Languages, Tools and Achievements*** section
 - ⚡ I do not believe in the AI apocalypse
